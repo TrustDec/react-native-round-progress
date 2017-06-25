@@ -22,3 +22,5 @@ Install the react-native-round-progress package from npm:
 | progressColor | #fff | string |
 | baseProgressWidth | 3 | number |
 | progressBaseColor | #fff | string|
+
+Copyright @ [Daemon1993](http://www.jianshu.com/u/0a0eb6b2cad3) 
