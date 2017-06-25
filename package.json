@@ -1,0 +1,27 @@
+{
+  "name": "react-native-round-progress",
+  "version": "1.0.0",
+  "description": "A react native round progress view, compatible with iOS and Android",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrustTheBoy/react-native-round-progress.git"
+  },
+  "keywords": [
+    "round",
+    "react",
+    "native",
+    "react",
+    "round",
+    "progress"
+  ],
+  "author": "TrustTheBoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrustTheBoy/react-native-round-progress/issues"
+  },
+  "homepage": "https://github.com/TrustTheBoy/react-native-round-progress#readme"
+}
