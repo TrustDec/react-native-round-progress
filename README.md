@@ -1,7 +1,13 @@
-# react-native-round-progress
+## react-native-round-progress
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/TrustTheBoy/react-native-round-progress.git)
+[![Version](https://img.shields.io/npm/v/react-native-round-progress.svg)](https://www.npmjs.com/package/react-native-round-progress)
+[![npm](https://img.shields.io/npm/dt/react-native-round-progress.svg)](https://www.npmjs.com/package/react-native-round-progress)
+[![Twitter Follow](https://img.shields.io/twitter/follow/smallrui.svg?style=social&label=Follow)](https://twitter.com/smallrui)
+
 A react native round progress view, compatible with iOS and Android
 
-## Getting started
+### Getting started
 Install the react-native-round-progress package from npm:
 ### Installation
 

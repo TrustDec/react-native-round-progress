@@ -1,6 +1,6 @@
 {
   "name": "react-native-round-progress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A react native round progress view, compatible with iOS and Android",
   "main": "index.js",
   "scripts": {
