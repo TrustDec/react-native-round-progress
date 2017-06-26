@@ -5,9 +5,16 @@ A react native round progress view, compatible with iOS and Android
 Install the react-native-round-progress package from npm:
 ### Installation
 
-```javascript
-	npm install react-native-apple-healthkit --save
+```node
+	npm install react-native-round-progress --save
 ```
+
+or
+
+```yarn
+yarn add react-native-round-progress
+```
+
 ### Examples
 <img src="https://raw.githubusercontent.com/TrustTheBoy/old-driver-collection/master/Images/round.png" width="200"/>
 
@@ -24,8 +31,8 @@ Install the react-native-round-progress package from npm:
 | progressBaseColor | #fff | string|
 
 
+### similarity
 
-
-
+- [MrToph](https://github.com/MrToph/react-native-countdown-circle)
 
 Copyright @ [Daemon1993](http://www.jianshu.com/u/0a0eb6b2cad3) 
